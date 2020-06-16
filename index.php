@@ -1,9 +1,9 @@
 welcome to cloud
-<pre?
+<pre>
 <?php
 
 echo `ifconfig`
 
 
 ?>
-</pre?
+</pre>
